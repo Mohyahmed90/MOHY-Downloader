@@ -6,7 +6,7 @@ A simple yet powerful tool to clip and download segments from YouTube videos wit
 
 <div align="center">
 
-  < ![MOHY_DOWNLOADER](https://github.com/user-attachments/assets/ee5bad55-78ad-454d-af0e-59b78743b813)>
+  ![MOHY_DOWNLOADER](https://github.com/user-attachments/assets/ee5bad55-78ad-454d-af0e-59b78743b813)
  
 
 </div>
